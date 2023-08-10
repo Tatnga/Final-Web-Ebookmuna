@@ -1,0 +1,27 @@
+/* Googlefont Poppins CDN Link */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+} 
+
+.home-section nav {
+  display: flex;
+  justify-content: space-between;
+  height: 80px;
+  background: #fff;
+  display: flex;
+  align-items: center;
+  position: static;
+  width: calc(100% - 300px);
+  left: 285px;
+  margin-left: 5px;
+  z-index: 100;
+  padding: 0 20px;
+  box-shadow: 0 10px 5px rgba(0, 0, 0, 0.1);
+  transition: all 0.5s ease;*/
+}
+
+}

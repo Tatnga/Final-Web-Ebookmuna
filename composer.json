@@ -1,0 +1,15 @@
+{
+    "require": {
+        "kreait/laravel-firebase": "*",
+        "firebase/php-jwt": "^6.4",
+        "kreait/firebase-php": "*",
+        "phpoffice/phpspreadsheet": "^1.28",
+        "tecnickcom/tcpdf": "^6.6",
+        "dompdf/dompdf": "^2.0"
+    },  "config": {
+        "platform": {
+            "php": "7.4"
+        }
+    }
+    
+}
